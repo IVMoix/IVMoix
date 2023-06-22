@@ -5,7 +5,7 @@
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0ZXl6dGFiejdxZTY5ZTg3bTdwenM1ZmhibTkyeG15OG55cTluZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dJwT5rggHLqjWAcC0e/giphy.gif" width="100"/>;
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0ZXl6dGFiejdxZTY5ZTg3bTdwenM1ZmhibTkyeG15OG55cTluZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dJwT5rggHLqjWAcC0e/giphy.gif"/>;
 </div>
 
 </br>
