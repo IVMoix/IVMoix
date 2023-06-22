@@ -5,7 +5,7 @@
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/dJwT5rggHLqjWAcC0e" width="480" height="207" frameBorder="0"/>
+  <iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">
 </div>
 
 </br>
