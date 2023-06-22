@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Iñaki :sunglasses:	</h1>
 </br>
 </br>
-<h3 align=""> I'm a Full Stack Developer specialized in JavaScript/TypeScript.</h3>
+<h3 align=""> I'm a Full Stack Developer specialized in Javascript/Typescript.</h3>
 <h3 align=""> My goal as a professional is to provide fast developing, cutting-edge technologies, and innovation in all my projects.</h3>
 
 <div id="header" align="center">
@@ -21,17 +21,22 @@
 <div id="toolbelt">
   <h4>:telescope:	Languages and Tools:</h4>
   <div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="Css" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="Css" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="Html" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" heighy="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="Angular" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" title="vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
     <br>
     <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgre" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="40" height="40"/>&nbsp;
     <br>
     <br>
   </div>
@@ -40,10 +45,11 @@
 <div>
   <h4>:dart: Some of my strongest qualities:</h4>
   <ul>
-    <li>Great communication skills</li>
-    <li>Willing to research</li>
+    <li>Good communication skills</li>
+    <li>Great team-worker</li>
     <li>Problem-solver</li>
     <li>Project management-like characteristics</li>
+    <li>Adaptability</li>
   </ul>
 </div>
 
